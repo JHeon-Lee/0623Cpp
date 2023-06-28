@@ -10,6 +10,7 @@ using namespace std;
 // adapter로 나뉨
 // 
 // 반복자(iterator) - 컨테이너의 원소들에 접근할때 사용
+// 
 // 알고리즘(algorithm) - 정렬 / 삭제 등 일반적인 방법들
 
 void Sequence_Container(); // 선형으로 데이터 저장 --> 연속적인 데이터 다루는데 유리
