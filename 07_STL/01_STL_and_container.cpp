@@ -58,7 +58,7 @@ void Sequence_Container()
 	}
 
 	// 6/28 ~ 
-	// Deque : 서로 떨어져있는 데이터 연결 - vector 보다 더 많은 데이터 필요
+	// Deque : 서로 떨어져있는 데이터 연결 - vector의 원소 추가/삭제 기능을 보완
 	// 크기예측이 불가능할때 사용
 	{
 		cout << "Deque" << endl;
